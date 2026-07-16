@@ -6,7 +6,7 @@ export const StoreContext = createContext(null);
 
 const StoreContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
-  const url = "https://food-delivery-rd5w.onrender.com";
+  const url = "http://localhost:4000";
   const [token, setToken] = useState("");
   const [food_list, setFoodList] = useState([]);
   const addToCart = async (itemId) => {
@@ -63,13 +63,23 @@ const StoreContextProvider = (props) => {
   };
 
   const loadCartdata = async (token) => {
+  try {
     const response = await axios.post(
       url + "/api/cart/get",
       {},
-      { headers: { token } },
+      { headers: { token } }
     );
-    setCartItems(response.data.cartData)
-  };
+
+    if (response.data.success) {
+      setCartItems(response.data.cartData);
+    } else {
+      setCartItems({});
+    }
+  } catch (error) {
+    console.log(error);
+    setCartItems({});
+  }
+};
   useEffect(() => {
     async function loadData() {
       await fetchFoodList();
