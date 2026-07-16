@@ -124,7 +124,6 @@ JWT_SECRET=your_secret_key
 
 **Mohit Thengre**
 
-Electrical and Electronics Engineering
 
 VNIT Nagpur
 
