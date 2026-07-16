@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 8px 4%;
+}
+
+.left-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    width: max(10%,80px);
+}
+
+.profile{
+    width: 40px;
+    margin-top: 20px;
+}
+
+.left-section p{
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+}
