@@ -1,0 +1,45 @@
+import React, { useContext, useEffect, useState } from 'react'
+import "./Myorder.css"
+import { StoreContext } from '../../Context/StoreContext'
+import { assets } from '../../assets/assets'
+
+const Myorder = () => {
+    const {url,token}=useContext(StoreContext)
+    const [data,setdata]=useState([])
+    const fetchOrders=async()=>{
+        const response=await axios.post(url+"/api/order/userorders",{},{headers:{token}})
+        setData(response.data.data);
+        setData(response.data.data);
+
+    }
+    useEffect(()=>{
+        if(token){
+            fetchOrders();
+        }
+    },[token])
+  return (
+    <div className='my-orders'>
+        <h2>My Orders</h2>
+        <div  className="container">
+            {data.map((order,index)=>{
+                return (
+                    <div key={index} className="my-orders-order">
+                       <img src={assets.parcel_icon} alt="" />
+                       <p>{order.items.map((item,index)=>{
+                        if(index==order.items.length-1){
+                            return item.name+"x"+item.quantity
+                        }
+
+                       })}</p> 
+                    </div>
+                )
+            })
+
+            }
+        </div>
+      
+    </div>
+  )
+}
+
+export default Myorder
