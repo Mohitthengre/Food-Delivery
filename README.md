@@ -1,6 +1,6 @@
 # 🍔 QuickBite - Food Delivery Web Application
 
-QuickBite is a full-stack Food Delivery Web Application built using the MERN Stack. It enables users to browse food items, manage their cart, place orders, and securely authenticate. The project also includes a dedicated Admin Panel for managing food items and customer orders.
+QuickBite is a full-stack Food Delivery Web Application built using the MERN Stack. It enables users to browse food items, manage their cart, and securely authenticate. The project also includes a dedicated Admin Panel for managing food items and customer orders.
 
 ---
 
@@ -63,49 +63,7 @@ https://food-delivery-admin-drks.onrender.com
 
 ---
 
-# 📸 Screenshots
 
-Food-Delivery/
-│
-├── screenshots/
-│   ├── home.png
-│   ├── menu.png
-│   ├── cart.png
-│   ├── login.png
-│   ├── admin-dashboard.png
-│   ├── add-food.png
-│   └── orders.png
-```
-
-## 🏠 Home Page
-
-![image alt](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/home.png)
-
----
-
-## 🍽️ Menu
-
-![Menu](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/menu.png)
-
----
-
-## 🛒 Cart
-
-![Cart](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/cart.png)
-
----
-
-## 🔐 Login
-
-![Login](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/login.png)
-
----
-
-## 🛠️ Admin Dashboard
-
-![Admin Dashboard](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/admin-dashboard.png)
-
----
 
 # 🛠️ Tech Stack
 
