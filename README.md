@@ -77,31 +77,29 @@ Food-Delivery/
 │   └── orders.png
 ```
 
-## Home Page
+## 📸 Home Page
 
-![Home](screenshots/home.png)
+<img src="./screenshots/home.png" alt="Home Page" width="900"/>
 
-## Menu
+## 🍽️ Menu
 
-![Menu](screenshots/menu.png)
+<img src="./screenshots/menu.png" alt="Menu" width="900"/>
 
-## Cart
+## 🛒 Cart
 
-![Cart](screenshots/cart.png)
+<img src="./screenshots/cart.png" alt="Cart" width="900"/>
 
-## Login
+## 🔐 Login
 
-![Login](screenshots/login.png)
+<img src="./screenshots/login.png" alt="Login" width="900"/>
 
-## Admin Dashboard
+## 🛠️ Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900"/>
 
-## Add Food
+## 📋 List Food
 
-![Add Food](screenshots/list-food.png)
-
----
+<img src="./screenshots/list-food.png" alt="List Food" width="900"/>
 
 # 🛠️ Tech Stack
 
