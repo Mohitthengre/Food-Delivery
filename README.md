@@ -79,7 +79,7 @@ Food-Delivery/
 
 ## 🏠 Home Page
 
-![Home Page](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/home.png)
+![image alt](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/home.png)
 
 ---
 
