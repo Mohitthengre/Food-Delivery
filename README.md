@@ -79,27 +79,39 @@ Food-Delivery/
 
 ## 📸 Home Page
 
-<img src="./screenshots/home.png" alt="Home Page" width="900"/>
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home Page" width="900">
+</p>
 
 ## 🍽️ Menu
 
-<img src="./screenshots/menu.png" alt="Menu" width="900"/>
+<p align="center">
+  <img src="./screenshots/menu.png" alt="Menu" width="900">
+</p>
 
 ## 🛒 Cart
 
-<img src="./screenshots/cart.png" alt="Cart" width="900"/>
+<p align="center">
+  <img src="./screenshots/cart.png" alt="Cart" width="900">
+</p>
 
 ## 🔐 Login
 
-<img src="./screenshots/login.png" alt="Login" width="900"/>
+<p align="center">
+  <img src="./screenshots/login.png" alt="Login" width="900">
+</p>
 
 ## 🛠️ Admin Dashboard
 
-<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900"/>
+<p align="center">
+  <img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900">
+</p>
 
 ## 📋 List Food
 
-<img src="./screenshots/list-food.png" alt="List Food" width="900"/>
+<p align="center">
+  <img src="./screenshots/list-food.png" alt="List Food" width="900">
+</p>
 
 # 🛠️ Tech Stack
 
