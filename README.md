@@ -77,41 +77,35 @@ Food-Delivery/
 │   └── orders.png
 ```
 
-## 📸 Home Page
+## 🏠 Home Page
 
-<p align="center">
-  <img src="./screenshots/home.png" alt="Home Page" width="900">
-</p>
+![Home Page](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/home.png)
+
+---
 
 ## 🍽️ Menu
 
-<p align="center">
-  <img src="./screenshots/menu.png" alt="Menu" width="900">
-</p>
+![Menu](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/menu.png)
+
+---
 
 ## 🛒 Cart
 
-<p align="center">
-  <img src="./screenshots/cart.png" alt="Cart" width="900">
-</p>
+![Cart](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/cart.png)
+
+---
 
 ## 🔐 Login
 
-<p align="center">
-  <img src="./screenshots/login.png" alt="Login" width="900">
-</p>
+![Login](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/login.png)
+
+---
 
 ## 🛠️ Admin Dashboard
 
-<p align="center">
-  <img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="900">
-</p>
+![Admin Dashboard](https://github.com/Mohitthengre/Food-Delivery/blob/main/screenshots/admin-dashboard.png)
 
-## 📋 List Food
-
-<p align="center">
-  <img src="./screenshots/list-food.png" alt="List Food" width="900">
-</p>
+---
 
 # 🛠️ Tech Stack
 
